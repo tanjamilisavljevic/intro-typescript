@@ -15,7 +15,7 @@
     }
 
     function generateSecretNumber() {
-        const secretNumber = getRandomArbitrary(1, 22);
+        const secretNumber :number = getRandomArbitrary(1, 22);
 
         return secretNumber;
     }
