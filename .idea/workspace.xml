@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be504588-6c34-4881-a0fc-0dadc5b689e9" name="Default Changelist" comment="" />
+    <list default="true" id="be504588-6c34-4881-a0fc-0dadc5b689e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Starter-Pack/webpack.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Starter-Pack/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Starter-Pack/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Starter-Pack/src/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Starter-Pack/src/script.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Starter-Pack/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Starter-Pack/tsconfig.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +17,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gnt-verou-2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1y4kKenlidrAJ7wk4zzKBvOJ0GM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,6 +32,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2021.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -36,11 +43,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631518184811</updated>
-      <workItem from="1631518186336" duration="484000" />
+      <workItem from="1631518186336" duration="2867000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
